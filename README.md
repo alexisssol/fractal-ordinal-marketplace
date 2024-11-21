@@ -193,5 +193,4 @@ This project is licensed under the MIT License.
 ### Contact Info
 I have developed a fractal ordinal marketplace, based on previous ordinal marketplace developments on the Bitcoin mainnet. The initial functionalities are showcased in this public repository for the fractal ordinal marketplace. For further technical support or development assistance, please contact me here.  
 
-- **Telegram:** @rizz_cat
-- **Discord:** @rezzecup89
+- **Discord:** @jamesybarra98114
